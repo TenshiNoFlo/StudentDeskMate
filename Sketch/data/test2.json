@@ -1,0 +1,197 @@
+{
+  "listeEtudiants": [
+    {
+      "visible": true,
+      "num": 12204334,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "1, 1.3",
+      "nom": "BOLE ",
+      "prenom": "Alexandre"
+    },
+    {
+      "visible": true,
+      "num": 12200044,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "2, 1.2",
+      "nom": "BUBA ",
+      "prenom": "Ediz"
+    },
+    {
+      "visible": true,
+      "num": 12202519,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "3, 1.1",
+      "nom": "PAGNEUX--NEYRON",
+      "prenom": "Romain"
+    },
+    {
+      "visible": true,
+      "num": 12202276,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "4, 1.2",
+      "nom": "PAYET",
+      "prenom": "Eloi"
+    },
+    {
+      "visible": true,
+      "num": 156488,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "2, 1.2",
+      "nom": "CARREFOUR",
+      "prenom": "Market"
+    },
+    {
+      "visible": true,
+      "num": 6549849,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "1, 1.1",
+      "nom": "OYONNAX",
+      "prenom": "Rue"
+    },
+    {
+      "visible": true,
+      "num": 65484,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "3, 1.3",
+      "nom": "BELLIGNAT",
+      "prenom": "Route"
+    },
+    {
+      "visible": true,
+      "num": 484984,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "1, 1.1",
+      "nom": "ARBENT",
+      "prenom": "Café"
+    },
+    {
+      "visible": true,
+      "num": 4984984,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "1, 1.2",
+      "nom": "APREMONT",
+      "prenom": "Noir"
+    },
+    {
+      "visible": true,
+      "num": 1220659,
+      "tierTemps": false,
+      "photo": "NON",
+      "NumTable": 1,
+      "groupe": "2, 1.1",
+      "nom": "ZOOLIO",
+      "prenom": "Biansk"
+    }
+  ],
+  "svgContent": ["<svg cache-id=\"f60b68fb809f480ca51a240eb724571e\" id=\"egGMjveCczp1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 2489 1400\" shape-rendering=\"geometricPrecision\" text-rendering=\"geometricPrecision\"><line x1=\"-2.961453\" y1=\"-310.952497\" x2=\"-2.961453\" y2=\"302.047503\" transform=\"translate(69.6611 669.613)\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"-849.89337\" y1=\"0\" x2=\"720.10663\" y2=\"0\" transform=\"translate(916.593 970.163)\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"-374.47762\" y1=\"-7.525664\" x2=\"863.52238\" y2=\"-7.525664\" transform=\"translate(439.729 367.634)\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"-312.621296\" y1=\"-31.871012\" x2=\"572.378704\" y2=\"31.871012\" transform=\"translate(1615.87 391.979)\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"-117.481734\" y1=\"-245.996522\" x2=\"117.481734\" y2=\"245.996522\" transform=\"translate(2305.73 669.847)\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"-60.244839\" y1=\"-130.181554\" x2=\"60.244839\" y2=\"130.181554\" transform=\"translate(1695.368032 1100.344554)\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"333.799432\" y1=\"-157.00613\" x2=\"-333.799431\" y2=\"157.00613\" transform=\"translate(2089.98658 1071.605383)\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\"/><\/svg>"],
+  "listeGroupes": [
+    {
+      "couleur": -16484506,
+      "numEtudiants": [
+        12204334,
+        6549849,
+        484984,
+        4984984
+      ],
+      "nom": "1"
+    },
+    {
+      "couleur": -1824430,
+      "numEtudiants": [
+        12204334,
+        65484
+      ],
+      "nom": "1.3"
+    },
+    {
+      "couleur": -16669399,
+      "numEtudiants": [
+        12200044,
+        156488,
+        1220659
+      ],
+      "nom": "2"
+    },
+    {
+      "couleur": -13108929,
+      "numEtudiants": [
+        12200044,
+        12202276,
+        156488,
+        4984984
+      ],
+      "nom": "1.2"
+    },
+    {
+      "couleur": -10472866,
+      "numEtudiants": [
+        12202519,
+        65484
+      ],
+      "nom": "3"
+    },
+    {
+      "couleur": -11066389,
+      "numEtudiants": [
+        12202519,
+        6549849,
+        484984,
+        1220659
+      ],
+      "nom": "1.1"
+    },
+    {
+      "couleur": -1745689,
+      "numEtudiants": [12202276],
+      "nom": "4"
+    }
+  ],
+  "listeTables": [
+    {
+      "offsetX": 7,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 26,
+      "verrouille": false,
+      "txtSize": 23.14182472229004,
+      "numero": 1,
+      "x": 135,
+      "numEtudiantAssigné": -1,
+      "y": 288,
+      "lon": 28.927282333374023,
+      "lar": 57.85456466674805
+    },
+    {
+      "offsetX": 9,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 33,
+      "verrouille": false,
+      "txtSize": 23.14182472229004,
+      "numero": 2,
+      "x": 334,
+      "numEtudiantAssigné": -1,
+      "y": 321,
+      "lon": 28.927282333374023,
+      "lar": 57.85456466674805
+    }
+  ]
+}

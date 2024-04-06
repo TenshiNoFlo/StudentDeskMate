@@ -1,0 +1,298 @@
+{
+  "listeEtudiants": [
+    {
+      "visible": true,
+      "num": 484984,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "1, 1.1",
+      "nom": "ARBENT",
+      "prenom": "Café"
+    },
+    {
+      "visible": true,
+      "num": 1220659,
+      "tierTemps": false,
+      "photo": "OUI",
+      "groupe": "2, 1.1",
+      "nom": "ZOOLIO",
+      "prenom": "Biansk"
+    },
+    {
+      "visible": true,
+      "num": 6549849,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "1, 1.1",
+      "nom": "OYONNAX",
+      "prenom": "Rue"
+    },
+    {
+      "visible": true,
+      "num": 12200044,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "2, 1.2",
+      "nom": "BUBA ",
+      "prenom": "Ediz"
+    },
+    {
+      "visible": true,
+      "num": 12202276,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "1.2, 4",
+      "nom": "PAYET",
+      "prenom": "Eloi"
+    },
+    {
+      "visible": true,
+      "num": 156488,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "2, 1.2",
+      "nom": "CARREFOUR",
+      "prenom": "Market"
+    },
+    {
+      "visible": true,
+      "num": 4984984,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "1, 1.2",
+      "nom": "APREMONT",
+      "prenom": "Noir"
+    },
+    {
+      "visible": true,
+      "num": 12202519,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "3, 1.1",
+      "nom": "PAGNEUX--NEYRON",
+      "prenom": "Romain"
+    },
+    {
+      "visible": true,
+      "num": 65484,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "1.3, 3",
+      "nom": "BELLIGNAT",
+      "prenom": "Route"
+    },
+    {
+      "visible": true,
+      "num": 12204334,
+      "tierTemps": false,
+      "photo": "NON",
+      "groupe": "1, 1.3",
+      "nom": "BOLE ",
+      "prenom": "Alexandre"
+    }
+  ],
+  "listeGroupes": [
+    {
+      "couleur": -16347835,
+      "numEtudiants": [
+        12204334,
+        6549849,
+        484984,
+        4984984
+      ],
+      "nom": "1"
+    },
+    {
+      "couleur": -11305197,
+      "numEtudiants": [
+        12204334,
+        65484
+      ],
+      "nom": "1.3"
+    },
+    {
+      "couleur": -15685114,
+      "numEtudiants": [
+        12200044,
+        156488,
+        1220659
+      ],
+      "nom": "2"
+    },
+    {
+      "couleur": -10293251,
+      "numEtudiants": [
+        12200044,
+        12202276,
+        156488,
+        4984984
+      ],
+      "nom": "1.2"
+    },
+    {
+      "couleur": -2305322,
+      "numEtudiants": [
+        12202519,
+        65484
+      ],
+      "nom": "3"
+    },
+    {
+      "couleur": -16554886,
+      "numEtudiants": [
+        12202519,
+        6549849,
+        484984,
+        1220659
+      ],
+      "nom": "1.1"
+    },
+    {
+      "couleur": -6617933,
+      "numEtudiants": [12202276],
+      "nom": "4"
+    }
+  ],
+  "listeTables": [
+    {
+      "offsetX": 7,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 35,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 1,
+      "x": 411,
+      "numEtudiantAssigné": -1,
+      "y": 431,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 24,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 30,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 2,
+      "x": 401,
+      "numEtudiantAssigné": -1,
+      "y": 286,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 12,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 33,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 3,
+      "x": 487,
+      "numEtudiantAssigné": -1,
+      "y": 421,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 11,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 33,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 4,
+      "x": 487,
+      "numEtudiantAssigné": -1,
+      "y": 292,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 22,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 29,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 5,
+      "x": 654,
+      "numEtudiantAssigné": -1,
+      "y": 245,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 24,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 37,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 6,
+      "x": 658,
+      "numEtudiantAssigné": -1,
+      "y": 349,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 25,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 42,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 7,
+      "x": 578,
+      "numEtudiantAssigné": -1,
+      "y": 412,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 24,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 34,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 8,
+      "x": 585,
+      "numEtudiantAssigné": -1,
+      "y": 295,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 4,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 25,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 9,
+      "x": 738,
+      "numEtudiantAssigné": -1,
+      "y": 393,
+      "lon": 35,
+      "lar": 70
+    },
+    {
+      "offsetX": 14,
+      "orientation": 0,
+      "exploitable": true,
+      "offsetY": 39,
+      "verrouille": false,
+      "txtSize": 28,
+      "numero": 10,
+      "x": 739,
+      "numEtudiantAssigné": -1,
+      "y": 289,
+      "lon": 35,
+      "lar": 70
+    }
+  ]
+}
